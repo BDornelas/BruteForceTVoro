@@ -1,1 +1,13 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+# https://citation-file-format.github.io/cff-initializer-javascript/#/
+
+cff-version: 1.2.0
+title: Brute Force t-Voronoi
+message: Code made for generating some pictures.
+type: simple python code
+authors:
+  - given-names: Bianca
+    family-names: B. Dornelas
+    orcid: 'https://orcid.org/0000-0002-4827-4663'
 
